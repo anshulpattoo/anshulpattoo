@@ -1,6 +1,6 @@
 ### Hi! I'm Anshul 👋
 
-Welcome to my homepage! Having achieved the penultimate ranking of Life Scout with the Boy Scouts of America, I strive to be a leader in the communities I join, promoting charitable values while demonstrating exemplary behaviour to motivate and inspire others to take up the call to service.
+Welcome to my homepage! Having achieved the penultimate ranking of Life Scout with the [Boy Scouts of America](https://www.scouting.org/), I strive to be a leader in the communities I join, promoting charitable values while demonstrating exemplary behaviour to motivate and inspire others to take up the call to service.
 
 I recently completed my [honours](https://en.wikipedia.org/wiki/Honours_degree) undergraduate studies in [computer science](https://www.cs.queensu.ca/undergraduate/programs/specializations/computer-science.php) at [Queen's University](https://queensu.ca), having graduated in November 2023. The pinned repositories contain implementations of highlight software projects completed during my time at Queen's. Some of these projects include code specific to course assignments, and some of these courses may be offered in the Winter 2024 term: to maintain academic integrity for students currently enrolled in these courses, relevant implementations will be removed from my GitHub by February 15, 2024. 
 
