@@ -8,7 +8,7 @@ For applications, I tend to submit a version of this [one-page curriculum vitae]
 
 Also available here is a document outlining [relevant courses](https://apattoo-graduate-school-documents.s3.amazonaws.com/Anshul_Pattoo_Grades_Sheet_(Relevant+Courses).pdf) studied at Queen's, including grades achieved and web-based sample syllabi for select courses (either from the offering of the term in question, or an alternate term), where available. Courses highlighted in blue indicate substantial, challenging work, having considerably influenced my intellectual development in computer science. 
 
-Please note that, at the current time (Jan. to Feb. 2024), my GitHub profile is continually being updated, as I obtain and organize implementations produced in the past for effective presentation. However, the implementations presented as of current writing provide a comprehensive overview of my qualifications. Please also note that around mid to early March of this year (2024), my CVs and grades sheet will no longer be publicly available.
+Please note that, at the current time (Jan. to Feb. 2024), my GitHub profile is continually being updated, as I obtain and organize implementations produced in the past for effective presentation. However, the implementations presented as of current writing provide a comprehensive overview of my qualifications. Please also note that, for privacy, around mid to late March of this year (2024), my CVs and grades sheet will no longer be publicly available.
 
 Please do not hesitate to reach out if you'd like to chat or collaborate! I am generally responsive to emails.
 
