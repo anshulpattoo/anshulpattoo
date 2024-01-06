@@ -13,6 +13,7 @@ Please do not hesitate to reach out if you'd like to chat or collaborate! I am g
 __Features__:
 - __Sep. 2023__: Recognized with the Global Undergraduate Award (Junior Nobel Prize), ranking among the top 10% globally: https://www.cs.queensu.ca/news/2023/11/26/anshul-pattoos-work-earns-highly-commended-entry-honours-at-the-junior-nobel/
 - __Dec. 2021__: Delivered a [talk](https://youtu.be/vkVnoTewj2k) (by invite) on maximizing research productivity at IBM Canada, accessible by anyone at the company
+- __Forthcoming__: [Non-Sequitur podcast episode](https://open.spotify.com/show/0i4EuJ1jySGffSoOHB59W1) (from [Queen's Global Markets](https://www.linkedin.com/company/queen's-global-markets/)) with Queen's AutoDrive (myself and Team Captain, Anthony Beca) on the future of transportation, impact of self-driving cars on the automotive industry, and challenges and opportunities that lie ahead.
 
 Copyright © Anshul Pattoo 2024
 
