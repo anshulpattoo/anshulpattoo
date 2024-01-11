@@ -6,6 +6,8 @@ For applications, I tend to submit a version of this [one-page curriculum vitae]
 
 Also available here is a document outlining [relevant courses](https://apattoo-graduate-school-documents.s3.amazonaws.com/Anshul_Pattoo_Grades_Sheet_(Relevant+Courses).pdf) studied at Queen's, including grades achieved and web-based sample syllabi for select courses (either from the offering of the term in question, or an alternate term), where available. Courses highlighted in blue indicate substantial, challenging work, having considerably influenced my intellectual development in computer science. 
 
+To assess oral communication, you may review this sample instructional [video](https://www.youtube.com/watch?v=MkWLh4L5nE8&t=501s) I produced for running the implementation of my undergraduate thesis.
+
 Please note that, at the current time (Jan. to Feb. 2024), my GitHub profile is continually being updated, as I obtain and organize implementations produced in the past for effective presentation. However, the implementations presented as of current writing provide a comprehensive overview of my qualifications. Please also note that, for privacy, around mid to late March of this year (2024), my CVs and grades sheet will no longer be publicly available.
 
 Please do not hesitate to reach out if you'd like to chat or collaborate! I am generally responsive to emails.
@@ -14,10 +16,12 @@ __Features__:
 - __Forthcoming__: [Non-Sequitur](https://open.spotify.com/show/0i4EuJ1jySGffSoOHB59W1) podcast episode (from [Queen's Global Markets](https://www.linkedin.com/company/queen's-global-markets/)) with [Queen's AutoDrive](https://autodrive.engineering.queensu.ca/) (myself and Team Captain, Anthony Beca) on the future of transportation, impact of self-driving cars on the automotive industry, and challenges and opportunities that lie ahead
 - __Sep. 2023__: Recognized with the Global Undergraduate Award (Junior Nobel Prize), ranking among the top 10% globally: https://www.cs.queensu.ca/news/2023/11/26/anshul-pattoos-work-earns-highly-commended-entry-honours-at-the-junior-nobel/
 - __Dec. 2021__: Delivered a [talk](https://youtu.be/vkVnoTewj2k) (by invite) on maximizing research productivity at IBM Canada, accessible by anyone at the company
+- 
+  
 
 Copyright © Anshul Pattoo 2024
 
-_Last updated: Jan. 2, 2024_
+_Last updated: Jan. 11, 2024_
 
 ## Major repositories not pinned below (due to six-repository pin limit):
 
